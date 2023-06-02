@@ -1,0 +1,19 @@
+
+
+nav a {
+    text-decoration: none;
+    color: white;
+  }
+
+nav a:hover {
+    cursor: pointer;
+    color: #FF0000;
+}
+
+span h2 {
+  color: white;
+}
+
+.navlink{
+  color: white;
+}
