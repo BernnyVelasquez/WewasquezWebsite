@@ -1,0 +1,39 @@
+/**<NavItems Styling>*/
+
+ul{
+  width: 85%;
+}
+
+.navList li a{
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.navList li a:hover{
+  color: #FF0000;
+}
+
+.scheduleBtn a{
+  font-size: large;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+/**</NavItems Styling>*/
+
+/**<Nav logo styling>*/
+
+nav a h4:hover {
+  color: #FF0000;
+  cursor: pointer;
+}
+
+nav a img:hover{
+cursor: pointer;
+}
+
+/**</Nav logo styling>*/
+
