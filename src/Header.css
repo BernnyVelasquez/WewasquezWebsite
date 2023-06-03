@@ -1,3 +1,11 @@
+/**<Nav Styling>*/
+
+nav{
+  background-color: black !important;
+}
+
+/**</Nav Styling>*/
+
 /**<NavItems Styling>*/
 
 ul{
@@ -12,7 +20,7 @@ ul li{
   color: white;
   text-decoration: none;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 750;
 }
 
 .navList li a:hover{
@@ -23,11 +31,11 @@ ul li{
   font-size: large;
   text-decoration: none;
   text-transform: uppercase;
-  font-weight: 600;
+  
 }
 
 .scheduleBtn a:hover{
-color: transparent;
+color: white !important;
 }
 
 

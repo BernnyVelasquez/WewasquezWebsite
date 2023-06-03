@@ -14,7 +14,7 @@ const Header = () =>  {
             <span class="navbar-toggler-icon"></span>
           </button>
 
-          <div class="collapse navbar-collapse justify-content-end navList" id="navBarNav">
+          <div class="collapse navbar-collapse justify-content-end" id="navBarNav">
             <ul class="nav nav-fill navList ">
               <li class="nav-item nav " >
                 <a class="nav-link" aria-current="page" href="#">Home</a>
