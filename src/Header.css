@@ -4,6 +4,10 @@ ul{
   width: 85%;
 }
 
+ul li{
+    text-align: center;
+}
+
 .navList li a{
   color: white;
   text-decoration: none;
@@ -22,6 +26,14 @@ ul{
   font-weight: 600;
 }
 
+.scheduleBtn a:hover{
+color: transparent;
+}
+
+
+
+
+
 /**</NavItems Styling>*/
 
 /**<Nav logo styling>*/
@@ -35,5 +47,39 @@ nav a img:hover{
 cursor: pointer;
 }
 
+
+
+
 /**</Nav logo styling>*/
+
+@media screen and (max-width: 390px) {
+  
+  h4.logoTxt{
+  display: none !important;
+  }
+
+  .navList li a:hover{
+    color: white;
+  }
+
+  .navList{
+    justify-content: center !important;
+  }
+
+  }
+
+  @media screen and (max-width: 991px) {
+
+  
+    .navList{
+      width: 100%;
+      display: block;
+      justify-content: center !important;
+    }
+
+    .scheduleBtn{
+      justify-content: center !important;
+    }
+  
+    }
 
