@@ -1,8 +1,6 @@
 import React, {useState} from 'react'
 import styles from "./Header.css"
 
-
-
 const Header = () =>  {
   return (
     <div id="navcon" class="header-container">
