@@ -1,8 +1,23 @@
-.container{
+#footer{
+    background-color: #212529;
     
 }
 
-.col{
-    outline: red dashed 3px;
+.container{
     color: white;
+    text-decoration: none;
 }
+
+.text-reset{
+    text-decoration: none;
+    color: white !important;
+}
+
+.text-reset:hover{
+    color: #FF0000 !important;
+}
+
+.hdr{
+    font-size: 16px ;
+}
+

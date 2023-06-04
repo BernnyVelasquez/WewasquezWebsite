@@ -17,22 +17,22 @@ const Header = () =>  {
           <div class="collapse navbar-collapse justify-content-end" id="navBarNav">
             <ul class="nav nav-fill navList ">
               <li class="nav-item nav " >
-                <a class="nav-link" aria-current="page" href="#">Home</a>
+                <a class="nav-link" aria-current="page" href="/">Home</a>
               </li>
               <li class="nav-item ">
-                <a class="nav-link" href="#">Services</a>
+                <a class="nav-link" href="/Services">Services</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">About</a>
+                <a class="nav-link" href="/AboutUs">About us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Faq</a>
+                <a class="nav-link" href="/Faq">Faq</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Offers</a>
+                <a class="nav-link" href="/Offers">Offers</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Contact</a>
+                <a class="nav-link" href="/Contact">Contact</a>
               </li>
                 <li class=" nav-item d-grid gap-2 scheduleBtn ">
                   <a class="btn btn-primary" role="button">Schedule now</a>
