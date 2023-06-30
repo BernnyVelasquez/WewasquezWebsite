@@ -1,7 +1,8 @@
-.body{
-    height: 1000px;
+.bdy{
+    height: 500px;
 }
 
-h1{
-    outline: red dashed 3px;
+.homePic{
+    background-image: url();
+    width: 100%;
 }

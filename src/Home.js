@@ -3,8 +3,12 @@ import styles from './Home.css'
 
 const Home = () => {
   return (
-    <div class="body">
-      <h1>HELLO</h1>
+    <div class="container-fluid text-center bdy text-md-start ">
+    
+      <div class="homePic">
+        
+      </div>
+  
     </div>
   )
 }
